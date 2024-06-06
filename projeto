@@ -1,0 +1,42 @@
+<!DOCKTYPE html>
+<html lang="pt-br">
+  <head>
+    <llink rel="shortcut icon" href="Favicon.ico" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta name ="viewport" content="width=device-width, initial-scale=1.0"><link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap" rel="stylesheet">
+     <style>
+        body{
+                   background-color:#6495ED33;
+                   font-family: "Comfortaa", serif;
+            }
+          h1{
+                   font-size:36px;
+                   text-align: Center;
+            }
+          h2{
+                   font-size:36px;
+                   text-align: center;
+             }
+          h3{
+                   font-size:26px;
+                   text-align: center;
+             }
+          p2{
+                   font-size:12px;
+                   text-align: left;
+            }
+     </style>
+  <title> Meu projeto de vida</title>
+  </head>
+  <body>
+      <h1><mark style="background-color:blue">Programação(matematica II)</h1>
+      <h2><mark style="background-color:blue">Meu projeto de vida</mark></h2>
+      <p2>Eduardo Heesch Hadlich 02 3B </p2>
+      <h3><ins><strong>O que eu planejo para minha vida</strong></ins></h3>
+      <p1> Eu me chamo <strong>Eduardo Heesch Hadlich</strong> tenho 17 anos, estudo no São Pedro Apostolo.<br>
+            
+</p>
+   </body>
+</html>
